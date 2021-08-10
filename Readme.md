@@ -2,7 +2,7 @@
 ## Description
 Automatically removes messages labeled as `1 month` and `1 week` older than the corresponding period of time.
 
-Labels are assigned by Gmail filters (Search dialog -> Create filter: [x] Apply label, [x] Apply to matching coversations).
+Labels are assigned by Gmail filters (Search dialog -> Create filter: :white_check_mark: Apply label, :white_check_mark: Apply to matching coversations).
 
 ## Installation
 Create a new project in [Apps Script](https://script.google.com/), paste the code from [main.gs](main.gs).
